@@ -3,9 +3,9 @@
 		"tool": "",
 		"name": "SD-LWD-Insite Application",
 		"guideline": "10467",
-		"lv1": "%fulname% understands the applications, file structure, interfaces, and user in-puts of the InSite database. %pronoum% also knows the purpose of reporting and the basic reporting requirements. %firstname% showed the set-up, load, and export of data in Insite and generating reports. %pronoum% understands the purpose and application of the Depth App in Insite and the steps to setup a network.",
-		"lv2": "%fulname% understands the steps required to generate plots from saved templates and she listed the various displays available in InSite. %pronoum% demonstrated how to modify saved plot templates and displays, to show data from different wells or runs. %firstname% knows the required user inputs from the job information packet. %pronoum% also demonstrated how to perform depth sensor calibrations in Insite and how to prepare an Insite Database network.",
-		"lv3": "%fulname% demonstrated the troubleshooting steps required to edit, manage and repair the Database. %pronoum% also demonstrated how to use Insite to generate reports without error and he comprehends where to locate the latest updates to Insite."
+		"lv1": "%fullname% understands the applications, file structure, interfaces, and user in-puts of the InSite database. %pronoum% also knows the purpose of reporting and the basic reporting requirements. %firstname% showed the set-up, load, and export of data in Insite and generating reports. %pronoum% understands the purpose and application of the Depth App in Insite and the steps to setup a network.",
+		"lv2": "%fullname% understands the steps required to generate plots from saved templates and she listed the various displays available in InSite. %pronoum% demonstrated how to modify saved plot templates and displays, to show data from different wells or runs. %firstname% knows the required user inputs from the job information packet. %pronoum% also demonstrated how to perform depth sensor calibrations in Insite and how to prepare an Insite Database network.",
+		"lv3": "%fullname% demonstrated the troubleshooting steps required to edit, manage and repair the Database. %pronoum% also demonstrated how to use Insite to generate reports without error and he comprehends where to locate the latest updates to Insite."
 	},
 	{
 		"tool": "Basestar",
